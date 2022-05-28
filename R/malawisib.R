@@ -1,0 +1,25 @@
+#' @title Sibling Data Reshaped from 'malawidhs' dataframe
+#'
+#' @description Contains data for the 436,371 siblings of individuals in the 'malawidhs' data frame that is also included in this package.
+#'
+#' The dataset contains the following variables:
+#'
+#' caseid: Unique identifier for each respondent
+#'
+#' sib_id: Unique identifier for each sibling of each respondent
+#'
+#' v008: Date of interview in century month code
+#'
+#' mm1: Sex of sibling (1 = male, 2 = female)
+#'
+#' mm2: Survival status of sibling  (0 = deceased, 1 = alive )
+#'
+#' mm4: Siblings' dates of birth in century month code
+#'
+#' @name malawisib
+#' @docType data
+#' @usage malawisib
+#'
+#' @format dataframe
+NULL
+
